@@ -5,7 +5,7 @@ Features:
 - Adjustable answer time limit (5-30 seconds)
 - Settings saved to JSON file
 
-Perfect for schoolchildren to practice multiplication tables without reminders.
+Perfect for schoolchildren to practice multiplication tables.
 
 ---
 
@@ -15,3 +15,5 @@ Perfect for schoolchildren to practice multiplication tables without reminders.
 - Настраиваемый диапазон целых чисел (включая отрицательные)
 - Регулируемое время на ответ (5-30 секунд)
 - Сохранение настроек в JSON
+
+Идеально подходит для школьников, чтобы практиковать таблицу умножения.
